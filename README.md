@@ -1,4 +1,4 @@
-manta-backup
-============
+wanelo-manta-backup Cookbook
+========================
 
-Simple backups to Joyent's Manta object store.
+Install manta-backup.  This is specific to Wanelo infrastructure.
