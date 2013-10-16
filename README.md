@@ -1,4 +1,4 @@
-wanelo-manta-backup Cookbook
+manta-backup
 ========================
 
-Install manta-backup.  This is specific to Wanelo infrastructure.
+Simple backups to the Manta object store.
